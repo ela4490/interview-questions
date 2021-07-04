@@ -1,11 +1,7 @@
-# Interview questions on Design Patterns :
-
-http://www.journaldev.com/1487/adapter-design-pattern-java 
-
-http://javarevisited.blogspot.com/2015/06/difference-between-dependency-injection.html#more 
-
-http://javarevisited.blogspot.com/2013/01/difference-between-factory-and-abstract-factory-design-pattern-java.html#more 
-
-http://javarevisited.blogspot.it/2011/12/factory-design-pattern-java-example.html 
-
-http://javarevisited.blogspot.com/2012/07/why-enum-singleton-are-better-in-java.html 
+# Interview questions on  Gradlew:
+https://www.javainuse.com/misc/gradle-interview-questions <br/>
+https://mindmajix.com/gradle-interview-questions <br/>
+https://www.javapedia.net/Gradle-interview-questions <br/>
+https://www.wisdomjobs.com/e-university/gradle-interview-questions.html <br/>
+https://www.onlineinterviewquestions.com/gradle-interview-questions/ <br/>
+http://preparationforinterview.com/preparationforinterview/gradle-interview-question <br/>
