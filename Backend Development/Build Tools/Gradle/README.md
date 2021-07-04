@@ -1,4 +1,4 @@
-# Interview questions on  Gradlew:
+# Interview questions on  Gradle :
 https://www.javainuse.com/misc/gradle-interview-questions <br/>
 https://mindmajix.com/gradle-interview-questions <br/>
 https://www.javapedia.net/Gradle-interview-questions <br/>
