@@ -1,11 +1,14 @@
-# Interview questions on Design Patterns :
+# System Design Interview Questions :
+https://medium.com/javarevisited/25-software-design-interview-questions-to-crack-any-programming-and-technical-interviews-4b8237942db0 
 
-http://www.journaldev.com/1487/adapter-design-pattern-java 
+# Design a service like TinyUrl :
+https://www.youtube.com/watch?v=fMZMm_0ZhK4
 
-http://javarevisited.blogspot.com/2015/06/difference-between-dependency-injection.html#more 
+# Design Autocomplete or Typeahead Suggestions for Google search :
+https://www.youtube.com/watch?v=us0qySiUsGU
 
-http://javarevisited.blogspot.com/2013/01/difference-between-factory-and-abstract-factory-design-pattern-java.html#more 
+# Design messaging/chat service like Facebook Messenger or Whatsapp :
+https://www.youtube.com/watch?v=zKPNUMkwOJE
 
-http://javarevisited.blogspot.it/2011/12/factory-design-pattern-java-example.html 
-
-http://javarevisited.blogspot.com/2012/07/why-enum-singleton-are-better-in-java.html 
+# Distributed Database System Key Value Store 
+https://www.youtube.com/watch?v=rnZmdmlR-2M
