@@ -1,4 +1,4 @@
-# Interview questions on PostgresSQL :
+# Interview Questions on PostgresSQL :
 https://mindmajix.com/postgresql-interview-questions <br/>
 https://www.bestinterviewquestion.com/postgresql-interview-questions <br/>
 https://www.educba.com/postgresql-interview-questions/ <br/>
