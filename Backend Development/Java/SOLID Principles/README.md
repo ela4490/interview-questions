@@ -1,2 +1,2 @@
-# Abstraction vs Encapsulation :
-http://javarevisited.blogspot.in/2017/04/difference-between-abstraction-and-encapsulation-in-java-oop.html#more 
+# Tutorial :
+https://www.educative.io/edpresso/what-are-the-solid-principles-in-java
