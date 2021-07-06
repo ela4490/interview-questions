@@ -29,9 +29,6 @@ http://java67.blogspot.sg/2013/07/15-java-enum-interview-questions-amswers-for-e
 # 10 equals and hash code interview questions : 
 http://javarevisited.blogspot.in/2013/08/10-equals-and-hashcode-interview.html 
 
-# Singleton pattern questions : 
-http://javarevisited.blogspot.in/2011/03/10-interview-questions-on-singleton.html#axzz4l0e5BbB6 
-
 # Final modifier interview questions :
 http://javarevisited.blogspot.in/2016/09/21-java-final-modifier-keyword-interview-questions-answers.html#more 
 
