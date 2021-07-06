@@ -1,2 +1,2 @@
 # Interview questions on MongoDB :
-https://mindmajix.com/mongodb-vs-postgresql
+https://www.interviewbit.com/mongodb-interview-questions/
