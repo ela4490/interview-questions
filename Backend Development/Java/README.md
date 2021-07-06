@@ -30,10 +30,7 @@ http://java67.blogspot.sg/2013/07/15-java-enum-interview-questions-amswers-for-e
 http://javarevisited.blogspot.in/2013/08/10-equals-and-hashcode-interview.html 
 
 # Final modifier interview questions :
-http://javarevisited.blogspot.in/2016/09/21-java-final-modifier-keyword-interview-questions-answers.html#more 
-
-# Difference between abstraction and encapsulation :
-http://javarevisited.blogspot.in/2017/04/difference-between-abstraction-and-encapsulation-in-java-oop.html#more 
+http://javarevisited.blogspot.in/2016/09/21-java-final-modifier-keyword-interview-questions-answers.html#more
 
 # Comparator vs comparable : 
 http://javarevisited.blogspot.in/2011/06/comparator-and-comparable-in-java.html#axzz4lDkw9gFz 
