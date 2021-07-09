@@ -1,6 +1,6 @@
-# Tutorial :
+### Tutorial :
 https://www.baeldung.com/java-algorithm-complexity
 
-# Cheat Sheet :
+### Cheat Sheet :
 https://www.bigocheatsheet.com/ <br/>
 https://www.geeksforgeeks.org/time-complexities-of-different-data-structures/ <br/>
