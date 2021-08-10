@@ -1,36 +1,26 @@
-### Advanced java questions : 
-http://www.buggybread.com/2014/12/java-advanced-interview-questions-for.html 
+While designing a Distributed System, it is essential to pick the right kind of architecture. Usually, architectures are evolving, but picking the right one at the inception could make your system thrive.
 
-### Telephonic questions :
-http://www.java67.com/2015/03/top-40-core-java-interview-questions-answers-telephonic-round.html 
+So, here are 4 common architectures in Distributed Systems
 
-### Upper and lower bound wildcards :
-http://javarevisited.blogspot.in/2012/04/what-is-bounded-and-unbounded-wildcards.html#axzz4kmoSrZPG
+### Client-server
+To render some information to the end-user, the client contacts the server (holding the data) with a request; the server sends back the data requested. The client is smart enough to understand how to request the data, post-process it, format it, and then serve it to the end-user.
 
-### Generic interview questions :
-http://javarevisited.blogspot.in/2012/06/10-interview-questions-on-java-generics.html#axzz4kkat2E6j 
+This kind of architecture is not common in our day-to-day web applications. Still, it is prevalent when multiple services share a common database (server) and request data directly from the database.
 
-### Collection interview questions :
-http://javarevisited.blogspot.in/2011/11/collection-interview-questions-answers.html 
+### 3-tier
+This is one of the most widely used topologies out there. Unlike client-server architecture, the clients in a 3-tier architecture are not smart and are stateless. This architecture introduces a middle layer holding the business logic. The client talks to the business layer, and this business layer talk to the server (holding the data).
 
-### Immutable objects :
-http://javarevisited.blogspot.in/2013/03/how-to-create-immutable-class-object-java-example-tutorial.html 
+Most of the web applications are 3-tier applications where your client (browser) talks to the business layer (webserver), which in turn queries the server (database) for the data. The business layer processes and formats the data (optional) and sends it back to the client. The client does not know how the data is being fetched from the server, making it stateless.
 
-### Why string is immutable : 
-http://javarevisited.blogspot.in/2010/10/why-string-is-immutable-in-java.html 
+### n-tier
+As an extension to the 3-tier architecture, the n-tier application is where your middle layer (business layer) talks to another service to get information. This is typically seen when there is multiple independent business logic in the system.
 
-### Double checked locking on singleton class :
-http://javarevisited.blogspot.sg/2014/05/double-checked-locking-on-singleton-in-java.html 
+A classic example of an n-tier architecture is Microservices based architecture. Each service is responsible for its information, and the service communicates with other services to get the required data. Thus, a 3-tier application typically evolves into an n-tier application.
 
-### Enum : 
-http://javarevisited.blogspot.in/2011/08/enum-in-java-example-tutorial.html 
-http://java67.blogspot.sg/2013/07/15-java-enum-interview-questions-amswers-for-experienced-programmers.html 
+### Peer-to-peer
+Peer-to-peer architecture is typically a decentralized system wherein no special machines hold all the responsibilities; instead, the responsibility is split across all the machines equally. The peers act as both clients and servers, and they communicate with each other to serve the request.
 
-### 10 equals and hash code interview questions : 
-http://javarevisited.blogspot.in/2013/08/10-equals-and-hashcode-interview.html 
+A couple of popular examples of P2P architecture are BitTorrent and Bitcoin networks. The n-tier architecture can optionally evolve into a P2P, but this evolution is not that popular. Usually, going P2P is a choice that is made during the inception of the service.
 
-### Final modifier interview questions :
-http://javarevisited.blogspot.in/2016/09/21-java-final-modifier-keyword-interview-questions-answers.html#more
-
-### Comparator vs comparable : 
-http://javarevisited.blogspot.in/2011/06/comparator-and-comparable-in-java.html#axzz4lDkw9gFz 
+References
+* [Distributed Systems - Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
