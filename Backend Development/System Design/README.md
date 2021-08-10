@@ -20,3 +20,6 @@ https://www.youtube.com/watch?v=zKPNUMkwOJE
 
 ### Distributed Database System Key Value Store 
 https://www.youtube.com/watch?v=rnZmdmlR-2M
+
+### Parking Lot System
+https://medium.com/double-pointer/system-design-interview-parking-lot-system-ff2c58167651 <br/>
