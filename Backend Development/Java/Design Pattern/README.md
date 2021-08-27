@@ -1,5 +1,5 @@
 ### Tutorial :
-https://refactoring.guru/design-patterns/java
+https://refactoring.guru/design-patterns/java <br/>
 
 ### Interview questions on Design Patterns :
 http://www.journaldev.com/1487/adapter-design-pattern-java <br />
