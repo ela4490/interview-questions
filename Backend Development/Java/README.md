@@ -10,9 +10,6 @@ http://javarevisited.blogspot.in/2012/04/what-is-bounded-and-unbounded-wildcards
 ### Generic interview questions :
 http://javarevisited.blogspot.in/2012/06/10-interview-questions-on-java-generics.html#axzz4kkat2E6j 
 
-### Collection interview questions :
-http://javarevisited.blogspot.in/2011/11/collection-interview-questions-answers.html 
-
 ### Immutable objects :
 http://javarevisited.blogspot.in/2013/03/how-to-create-immutable-class-object-java-example-tutorial.html 
 
