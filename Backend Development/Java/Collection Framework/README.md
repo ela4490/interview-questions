@@ -1,3 +1,9 @@
+### Collection interview questions :
+http://javarevisited.blogspot.in/2011/11/collection-interview-questions-answers.html <br/>
+https://www.youtube.com/watch?v=GO67C7V-IbQ <br/>
+
+![image](https://user-images.githubusercontent.com/30351771/132011368-9802b9b9-e012-4634-bd66-3562da638acc.png)
+
 ### Interview Questions on Data Structures :
 https://www.bestinterviewquestion.com/data-structure-interview-questions
 
