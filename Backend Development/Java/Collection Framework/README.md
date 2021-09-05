@@ -26,3 +26,5 @@ http://javarevisited.blogspot.in/2011/02/how-hashmap-works-in-java.html
 
 ### Difference b/w concurrent hash map and hash table : 
 http://javarevisited.blogspot.sg/2011/04/difference-between-concurrenthashmap.html
+
+![image](https://user-images.githubusercontent.com/30351771/132133608-3ade7381-f381-493c-a92d-9be05c252e59.png)
