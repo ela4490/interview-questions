@@ -20,8 +20,8 @@ http://javarevisited.blogspot.in/2010/10/why-string-is-immutable-in-java.html
 http://javarevisited.blogspot.sg/2014/05/double-checked-locking-on-singleton-in-java.html 
 
 ### Enum : 
-http://javarevisited.blogspot.in/2011/08/enum-in-java-example-tutorial.html 
-http://java67.blogspot.sg/2013/07/15-java-enum-interview-questions-amswers-for-experienced-programmers.html 
+http://javarevisited.blogspot.in/2011/08/enum-in-java-example-tutorial.html <br/>
+http://java67.blogspot.sg/2013/07/15-java-enum-interview-questions-amswers-for-experienced-programmers.html <br/>
 
 ### 10 equals and hash code interview questions : 
 http://javarevisited.blogspot.in/2013/08/10-equals-and-hashcode-interview.html 
