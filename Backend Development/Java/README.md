@@ -1,5 +1,7 @@
-### Advanced java questions : 
+### Core java questions :
 https://www.youtube.com/watch?v=fFnuer3AD8Q <br/>
+
+### Advanced java questions : 
 http://www.buggybread.com/2014/12/java-advanced-interview-questions-for.html <br/>
 
 ### Telephonic questions :
