@@ -28,8 +28,3 @@ http://javarevisited.blogspot.in/2013/08/10-equals-and-hashcode-interview.html
 
 ### Final modifier interview questions :
 http://javarevisited.blogspot.in/2016/09/21-java-final-modifier-keyword-interview-questions-answers.html#more
-
-### Comparator vs comparable : 
-http://javarevisited.blogspot.in/2011/06/comparator-and-comparable-in-java.html#axzz4lDkw9gFz <br/>
-
-![image](https://user-images.githubusercontent.com/30351771/132132619-1f6567eb-ad03-451a-b7db-40ec61727d11.png)
