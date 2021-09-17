@@ -1,6 +1,4 @@
 ### Tutorial :
-https://refactoring.guru/design-patterns/java <br/>
-https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc </br>
 https://www.youtube.com/watch?v=C_oPLDaSy-8 <br/>
 
 ### Interview questions on Design Patterns :
