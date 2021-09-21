@@ -3,3 +3,4 @@
 * https://www.codercrunch.com/design/634265/designing-instagram
 * https://nlogn.in/designing-instagram-architecture-system-design/ 
 * Gaurav Sen : https://www.youtube.com/watch?v=QmX2NPkJTKg
+* codeKarle : https://www.youtube.com/watch?v=9-hjBGxuiEs
