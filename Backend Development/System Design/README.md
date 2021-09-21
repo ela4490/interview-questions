@@ -12,15 +12,6 @@
 * https://www.freecodecamp.org/news/systems-design-for-interviews/ 
 * https://www.educative.io/blog/top-10-system-design-interview-questions <br/>
 
-### Design a service like TinyUrl :
-* Tushar Roy : https://www.youtube.com/watch?v=fMZMm_0ZhK4
-
-### Design Autocomplete or Typeahead Suggestions for Google search :
-* Tushar Roy : https://www.youtube.com/watch?v=us0qySiUsGU
-
-### Design messaging/chat service like Facebook Messenger or Whatsapp :
-* Tushar Roy : https://www.youtube.com/watch?v=zKPNUMkwOJE
-
 ### Distributed Database System Key Value Store 
 * Tushar Roy : https://www.youtube.com/watch?v=rnZmdmlR-2M
 
