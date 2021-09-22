@@ -1,12 +1,4 @@
-### HTTP vs HTTPS :
-https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/ <br/>
-https://seopressor.com/blog/http-vs-https/ <br/>
+### How users reset their password?
+![image](https://user-images.githubusercontent.com/30351771/134334541-e65b79ed-8cb0-4c9c-aa0f-0985cdc62f87.png)
 
-### CI/CD Interview Questions :
-https://www.fullstack.cafe/blog/15-continuous-integration-interview-questions-in-2018
-
-### Web Development Inteview Questions :
-https://career.guru99.com/top-17-web-developer-interview-questions/ <br/>
-https://www.naukri.com/learning/articles/top-20-web-developer-interview-questions-answers/ <br/>
-https://intellipaat.com/blog/interview-question/web-developer-interview-questions/ <br/>
-https://www.indeed.com/hire/interview-questions/web-developer <br/>
+Sergey Kargopolov : https://www.youtube.com/playlist?list=PLdW9lrB9HDw0hedFZrGvtx8wZKdJU4Yda
