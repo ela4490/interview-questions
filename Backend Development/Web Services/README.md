@@ -1,3 +1,6 @@
+#### HTTP Methods :
+![image](https://user-images.githubusercontent.com/30351771/134715011-3610cd1f-59ef-444c-ab25-56f2594c52ec.png)
+
 ### Interview questions on Web Services :
 https://www.javatpoint.com/web-services-interview-questions <br/>
 https://www.guru99.com/web-services-interview-questions.html <br/>
