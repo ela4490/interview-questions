@@ -1,6 +1,6 @@
 ### Singleton Design Pattern Tutorial :
 * https://refactoring.guru/design-patterns/singleton
-* Derek Banas : https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLE7E8B7F4856C9B19&index=70
+* Derek Banas : https://www.youtube.com/watch?v=NZaXM67fxbs&list=PLE7E8B7F4856C9B19&index=70 <br/>
 Source Code : http://www.newthinktank.com/2012/09/singleton-design-pattern-tutorial/
 * Christopher Okhravi : https://www.youtube.com/watch?v=hUE_j6q0LTQ&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc&index=6
 
