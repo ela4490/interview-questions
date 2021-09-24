@@ -1,8 +1,2 @@
-### AWS Tutorial :
-* Edureka - https://www.youtube.com/watch?v=k1RI5locZE4&t=1174s
-
-### Interview questions on AWS :
-* https://www.interviewbit.com/aws-interview-questions/ 
-* https://career.guru99.com/top-15-aws-interview-questions/ 
-* https://www.simplilearn.com/tutorials/aws-tutorial/aws-interview-questions 
-* https://www.javatpoint.com/aws-interview-questions 
+### AWS Lambda :
+![image](https://user-images.githubusercontent.com/30351771/134724162-294be044-ffe0-496a-b99d-5a1ea0114c83.png)
