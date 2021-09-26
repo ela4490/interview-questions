@@ -2,6 +2,7 @@
 * Edureka - https://www.youtube.com/watch?v=k1RI5locZE4&t=1174s
 
 ### Interview questions on AWS :
+* Edureka : https://www.youtube.com/watch?v=d9siPwxzEVI
 * https://www.interviewbit.com/aws-interview-questions/ 
 * https://career.guru99.com/top-15-aws-interview-questions/ 
 * https://www.simplilearn.com/tutorials/aws-tutorial/aws-interview-questions 
