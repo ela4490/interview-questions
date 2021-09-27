@@ -1,3 +1,2 @@
-### Event Driven Architecture Tutorial :
-* IBM Technology : https://www.youtube.com/watch?v=o2HJCGcYwoU
-* Tech Primers : https://www.youtube.com/watch?v=SnO9dTbF6hM
+### Domain Driven Design Tutorial :
+* Alpha Code : https://www.youtube.com/playlist?list=PLZBNtT95PIW3BPNYF5pYOi4MJjg_boXCG
