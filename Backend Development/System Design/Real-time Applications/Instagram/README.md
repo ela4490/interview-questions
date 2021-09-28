@@ -4,3 +4,5 @@
 * https://nlogn.in/designing-instagram-architecture-system-design/ 
 * Gaurav Sen : https://www.youtube.com/watch?v=QmX2NPkJTKg
 * codeKarle : https://www.youtube.com/watch?v=9-hjBGxuiEs
+
+![image](https://user-images.githubusercontent.com/30351771/135114816-810ec979-8b30-4de3-8c58-0b1cde43e94c.png)
